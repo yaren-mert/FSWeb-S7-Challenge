@@ -1,0 +1,194 @@
+ body{
+  background-image: url(https://images.pexels.com/photos/6493572/pexels-photo-6493572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-size: cover;
+  background-position: center;
+ }
+form{
+  background-color: rgb(207, 193, 193);
+}
+
+ .pizza_siparis{
+    width: 360px;
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+}
+h3{
+    border: 2px black solid;
+    padding: 10px;
+}
+.pizza_cesit {
+    text-align:center ;
+    font: verdana;
+    color: black;
+    text-shadow:
+    1px 1px 1px #999,
+    1px 2px 1px #999,
+    1px 3px 1px #999,
+    1px 4px 1px #999,
+    1px 5px 1px #999,
+    1px 6px 1px #999,
+    1px 7px 1px #999,
+    1px 8px 1px #999,
+    1px 9px 1px #999,
+    1px 10px 1px #999,
+    1px 18px 6px rgba(0, 0, 0, 0.4),
+    1px 22px 10px rgba(0, 0, 0, 0.1),
+    1px 25px 35px rgba(0, 0, 0, 0.2),
+    1px 30px 60px rgba(0, 0, 0, 0.3);
+  }
+.pizza_size {
+  text-align:center ;
+  font: verdana;
+  color: black;
+  text-shadow:
+  1px 1px 1px #999,
+  1px 2px 1px #999,
+  1px 3px 1px #999,
+  1px 4px 1px #999,
+  1px 5px 1px #999,
+  1px 6px 1px #999,
+  1px 7px 1px #999,
+  1px 8px 1px #999,
+  1px 9px 1px #999,
+  1px 10px 1px #999,
+  1px 18px 6px rgba(0, 0, 0, 0.4),
+  1px 22px 10px rgba(0, 0, 0, 0.1),
+  1px 25px 35px rgba(0, 0, 0, 0.2),
+  1px 30px 60px rgba(0, 0, 0, 0.3);
+}
+
+.isim_soyisim {
+  text-align:center ;
+  font:  verdana;
+  color: black;
+  text-shadow:
+  1px 1px 1px #999,
+  1px 2px 1px #999,
+  1px 3px 1px #999,
+  1px 4px 1px #999,
+  1px 5px 1px #999,
+  1px 6px 1px #999,
+  1px 7px 1px #999,
+  1px 8px 1px #999,
+  1px 9px 1px #999,
+  1px 10px 1px #999,
+  1px 18px 6px rgba(0, 0, 0, 0.4),
+  1px 22px 10px rgba(0, 0, 0, 0.1),
+  1px 25px 35px rgba(0, 0, 0, 0.2),
+  1px 30px 60px rgba(0, 0, 0, 0.3);
+}
+.adres {
+  text-align:center ;
+  font: verdana;
+  color: black;
+  text-shadow:
+  1px 1px 1px #999,
+  1px 2px 1px #999,
+  1px 3px 1px #999,
+  1px 4px 1px #999,
+  1px 5px 1px #999,
+  1px 6px 1px #999,
+  1px 7px 1px #999,
+  1px 8px 1px #999,
+  1px 9px 1px #999,
+  1px 10px 1px #999,
+  1px 18px 6px rgba(0, 0, 0, 0.4),
+  1px 22px 10px rgba(0, 0, 0, 0.1),
+  1px 25px 35px rgba(0, 0, 0, 0.2),
+  1px 30px 60px rgba(0, 0, 0, 0.3);
+}
+.telefon {
+  text-align:center ;
+  font: verdana;
+  color: black;
+  text-shadow:
+  1px 1px 1px #999,
+  1px 2px 1px #999,
+  1px 3px 1px #999,
+  1px 4px 1px #999,
+  1px 5px 1px #999,
+  1px 6px 1px #999,
+  1px 7px 1px #999,
+  1px 8px 1px #999,
+  1px 9px 1px #999,
+  1px 10px 1px #999,
+  1px 18px 6px rgba(0, 0, 0, 0.4),
+  1px 22px 10px rgba(0, 0, 0, 0.1),
+  1px 25px 35px rgba(0, 0, 0, 0.2),
+  1px 30px 60px rgba(0, 0, 0, 0.3);
+}
+.siparis_notu {
+  text-align:center ;
+  font:  verdana;
+  color: black;
+  text-shadow:
+  1px 1px 1px #999,
+  1px 2px 1px #999,
+  1px 3px 1px #999,
+  1px 4px 1px #999,
+  1px 5px 1px #999,
+  1px 6px 1px #999,
+  1px 7px 1px #999,
+  1px 8px 1px #999,
+  1px 9px 1px #999,
+  1px 10px 1px #999,
+  1px 18px 6px rgba(0, 0, 0, 0.4),
+  1px 22px 10px rgba(0, 0, 0, 0.1),
+  1px 25px 35px rgba(0, 0, 0, 0.2),
+  1px 30px 60px rgba(0, 0, 0, 0.3);
+}
+.siparisadedi {
+  font-size: 1rem;
+  text-align:center ;
+  font:  verdana;
+  color: black;
+  text-shadow:
+  1px 1px 1px #999,
+  1px 2px 1px #999,
+  1px 3px 1px #999,
+  1px 4px 1px #999,
+  1px 5px 1px #999,
+  1px 6px 1px #999,
+  1px 7px 1px #999,
+  1px 8px 1px #999,
+  1px 9px 1px #999,
+  1px 10px 1px #999,
+  1px 18px 6px rgba(0, 0, 0, 0.4),
+  1px 22px 10px rgba(0, 0, 0, 0.1),
+  1px 25px 35px rgba(0, 0, 0, 0.2),
+  1px 30px 60px rgba(0, 0, 0, 0.3);
+}
+
+
+
+
+  
+  
+  .pizza_ingredient {
+    font: verdana;
+    color: black;
+    text-shadow:
+    1px 1px 1px #999,
+    1px 2px 1px #999,
+    1px 3px 1px #999,
+    1px 4px 1px #999,
+    1px 5px 1px #999,
+    1px 6px 1px #999,
+    1px 7px 1px #999,
+    1px 8px 1px #999,
+    1px 9px 1px #999,
+    1px 10px 1px #999,
+    1px 18px 6px rgba(0, 0, 0, 0.4),
+    1px 22px 10px rgba(0, 0, 0, 0.1),
+    1px 25px 35px rgba(0, 0, 0, 0.2),
+    1px 30px 60px rgba(0, 0, 0, 0.3);
+  }
+  
+  
+  .onay {
+     border: 1px black solid;
+     background-color: tomato;
+  }
+  
+
